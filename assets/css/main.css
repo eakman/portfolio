@@ -3359,3 +3359,33 @@
 			}
 
 		}
+
+		.head-shot {
+			display: block;
+			/*float: left;*/
+			height: 20%;
+			width: 20%;
+			margin-right: 35px;
+			margin-bottom: 20px;
+		}
+
+		.info-container {
+			display: flex;
+			flex-direction: row;
+		}
+
+		.name-and-intro {
+			display: flex;
+			flex-direction: column;
+			align-items: baseline;
+		}
+
+		/*.name {
+			display: block;
+			float: left;
+		}
+
+		.intro {
+			display: block;
+			float: left;
+		}*/
